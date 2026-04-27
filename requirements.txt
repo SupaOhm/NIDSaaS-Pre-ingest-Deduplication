@@ -1,0 +1,2 @@
+# No third-party runtime dependencies are required.
+# The experiment runs on Python 3.10+ using the standard library only.

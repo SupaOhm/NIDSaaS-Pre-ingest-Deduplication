@@ -1,0 +1,22 @@
+.DS_Store
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Generated experiment outputs
+results/*
+!results/.gitkeep
+
+# Large or local-only input files
+sample_data/*
+!sample_data/cic_ids2017_sample.csv
+
+# Editor and OS metadata
+.idea/
+.vscode/
+*.swp
