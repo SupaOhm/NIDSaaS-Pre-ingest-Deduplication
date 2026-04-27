@@ -1,4 +1,4 @@
-# IDSaaS Pre-ingest Deduplication
+`# IDSaaS Pre-ingest Deduplication
 
 This repository contains the experimental implementation used to evaluate pre-ingestion deduplication for IDSaaS-style uploads. The experiment models duplicate-upload behavior before cloud ingestion and measures how much traffic is removed at the edge before data reaches the gateway or sink.
 
